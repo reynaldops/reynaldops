@@ -28,6 +28,7 @@ https://profile-readme-generator.com/
 </div>
 
 ## Tools & Tecnologies:
+<!-- https://marwin1991.github.io/profile-technology-icons/ -->
 <div align="center">
   <nobr>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>

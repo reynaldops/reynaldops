@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 https://profile-readme-generator.com/
 -->
 
-## Ferramentas e Tecnologias:
+## Tools & Tecnologies:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-## Contatos:
+## Contacts:
 <div>
   <nobr>
     <a href="https://www.youtube.com/@reynaldoperezsanchez855" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
@@ -29,4 +29,12 @@ https://profile-readme-generator.com/
     <a href = "mailto:reynaldops@gmail.com target="_blank""><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/reynaldoperezsanchez/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </nobr>
+</div>
+
+## Stats:
+
+<div>
+<a href="https://github.com/reynaldops">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldops&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=reynaldops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>

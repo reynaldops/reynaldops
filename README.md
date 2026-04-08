@@ -31,6 +31,7 @@ https://profile-readme-generator.com/
   </nobr>
 </div>
 
+<!--
 ## Stats:
 
 <div>
@@ -38,3 +39,8 @@ https://profile-readme-generator.com/
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldops&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=reynaldops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+## Top Langs: 
+![TL](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldops&hide=javascript,css,scss,html&theme=dracula)
+
+-->

@@ -16,11 +16,20 @@ Here are some ideas to get you started:
 
 https://profile-readme-generator.com/
 -->
+## Contacts:
+<div align="center">
+  <nobr>
+    <a href="https://www.youtube.com/@reynaldoperezsanchez855" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
+    <a href="https://www.instagram.com/reynaldops/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+    <a href="https://www.twitch.tv/reynaldoperezsanchez" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a> 
+    <a href = "mailto:reynaldops@gmail.com target="_blank""><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/reynaldoperezsanchez/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+  </nobr>
+</div>
 
 ## Tools & Tecnologies:
-<div>
-  <nobr>
 <div align="center">
+  <nobr>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" alt="eclipse" title="eclipse"/></code>
@@ -65,7 +74,7 @@ https://profile-readme-generator.com/
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/activemq.png" alt="ActiveMQ" title="ActiveMQ"/></code>
-</div>    
+
   </nobr>
 </div>
 <!--
@@ -76,16 +85,6 @@ https://profile-readme-generator.com/
 
 -->
 
-## Contacts:
-<div>
-  <nobr>
-    <a href="https://www.youtube.com/@reynaldoperezsanchez855" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> 
-    <a href="https://www.instagram.com/reynaldops/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-    <a href="https://www.twitch.tv/reynaldoperezsanchez" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a> 
-    <a href = "mailto:reynaldops@gmail.com target="_blank""><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href="https://www.linkedin.com/in/reynaldoperezsanchez/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-  </nobr>
-</div>
 
 <!--
 ## Stats:

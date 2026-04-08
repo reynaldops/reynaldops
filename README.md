@@ -18,9 +18,11 @@ https://profile-readme-generator.com/
 -->
 
 ## Tools & Tecnologies:
-<nobr>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-</nobr>
+<div>
+  <nobr>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+  </nobr>
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,openshift,php,java,spring,cpp,python,js,nodejs,mysql,postgres,prometheus,wordpress,jquery,jenkins,kafka&perline=10)](https://skillicons.dev)
 

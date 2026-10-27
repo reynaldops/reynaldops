@@ -75,6 +75,8 @@ https://profile-readme-generator.com/
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="RabbitMQ" title="RabbitMQ"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" alt="kafka" title="kafka"/></code>
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/activemq.png" alt="ActiveMQ" title="ActiveMQ"/></code>
+	  <code><img width="30" src="https://avatars.githubusercontent.com/u/21250901?s=60&v=4" alt="HL7 FHIR" title="HL7 FHIR"/></code>
+	
 
   </nobr>
 </div>
